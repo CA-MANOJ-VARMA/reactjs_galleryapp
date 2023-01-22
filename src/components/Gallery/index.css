@@ -1,0 +1,18 @@
+/* Write your code here. */
+.css-bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+}
+
+.css-ul-container {
+  list-style-type: none;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.css-image-itself {
+  width: 500px;
+}

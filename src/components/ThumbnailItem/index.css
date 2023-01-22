@@ -1,0 +1,15 @@
+/* Write your code here. */
+.css-thumbnail-image-itself {
+  width: 50px;
+  margin-right: 10px;
+  border-radius: 5px;
+}
+
+.css-blur-thumbnail-image {
+  opacity: 0.5;
+}
+
+.css-button-itself {
+  background-color: transparent;
+  border-width: 0;
+}
